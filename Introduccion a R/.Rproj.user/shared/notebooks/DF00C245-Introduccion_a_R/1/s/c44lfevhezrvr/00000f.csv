@@ -1,0 +1,6 @@
+"0","temperatura <- c(20.37, 18.56, 18.4, 21.96, 29.53, 28.16,36.38, 36.62, 40.03, 27.59, 22.15, 19.85)"
+"0","humedad <- c(88, 86, 81, 79, 80, 78,71, 69, 78, 82, 85, 83)"
+"0","lluvia <- c(72, 33.9, 37.5, 36.6, 31.0, 16.6,1.2, 6.8, 36.8, 30.8, 38.5, 22.7)"
+"0","mes <- c(""Enero"", ""Febrero"", ""Marzo"", ""Abril"", ""Mayo"", ""Junio"",""Julio"", ""Agosto"",""Septiembre"", ""Octubre"", ""Noviembre"", ""Diciembre"")"
+"0","Marco_de_datos <- data.frame(mes,temperatura,humedad,lluvia)"
+"0","Marco_de_datos"
